@@ -1,0 +1,54 @@
+.BG1 {
+    background-image: url("banner1.png");
+    background-color: violet;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    color: black;
+    background-color: tomato;
+    border-radius: 5px;
+
+}
+
+section{
+    text-align: right;
+}
+
+.sec2 {
+    background-image: url("person-me.png");
+    background-repeat: no-repeat;
+background-color: rgb(231, 231, 220);
+display: flex; justify-content: space-between;
+}
+
+.sec3 {
+    background-color: rgb(234, 225, 213);
+
+}
+
+.MP {
+    font-size: 60PX;
+    text-align: center;
+}
+
+.span {
+    display: flex;
+    justify-content: space-between;
+}
+
+.last-black{background-color: black;}
+.wach {
+    background-image: url("watch.png");
+
+}
+
+.last-black{
+
+}
+
+.div-last-sec{
+color: whitesmoke;
+text-align: center;
+}
